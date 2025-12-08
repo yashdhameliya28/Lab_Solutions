@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Department.cs" />
+    <File Path="Employee.cs" />
+  </Folder>
+  <Project Path="Lab_Solutions.csproj" />
+</Solution>
