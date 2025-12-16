@@ -153,7 +153,7 @@ var threeYoungestCSharpDevelopers = employees
 
 //Lab-6
 
-var studentsListList = new List<Student>
+var studentsList = new List<Student>
 {
     new Student { Rno = 1, Name = "Amit",  Branch = "CE", Sem = 3, CPI = 8.0, Age = 19 },
     new Student { Rno = 2, Name = "Priya", Branch = "IT", Sem = 5, CPI = 9.0, Age = 21 },
@@ -162,7 +162,7 @@ var studentsListList = new List<Student>
     new Student { Rno = 5, Name = "Karan", Branch = "IT", Sem = 3, CPI = 6.0, Age = 20 },
 };
 
-var coursesList = new List<Course>
+var courses = new List<Course>
 {
     new Course { Rno = 1, CourseName = "DBMS",  Credits = 4 },
     new Course { Rno = 1, CourseName = "C#",    Credits = 3 },
